@@ -1,4 +1,6 @@
 # Carnet d'adresses
+https://cyberalexandre59.github.io/annuaire-js/
+
 ## Description
 Ce projet est une application web simple pour gérer un carnet d'adresses. Il permet d'ajouter, rechercher, trier et supprimer des contacts. L'interface utilisateur est élégante et utilise des icônes Font Awesome ainsi que des animations CSS.
 
