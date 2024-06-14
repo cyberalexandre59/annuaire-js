@@ -33,10 +33,10 @@ Ce fichier contient la structure de base de l'application. Voici quelques sectio
 - Liste des contacts : Une liste qui affiche les contacts ajoutés.
 
 ### style.css
-Ce fichier contient les styles pour l'application, y compris les styles pour les boutons, les formulaires et les animations.
+* Ce fichier contient les styles pour l'application, y compris les styles pour les boutons, les formulaires et les animations.
 
 ### events.js
-Ce fichier gère les interactions utilisateur, telles que l'ajout de contacts, la recherche, le tri, et la gestion des paramètres.
+* Ce fichier gère les interactions utilisateur, telles que l'ajout de contacts, la recherche, le tri, et la gestion des paramètres.
 
 ## Utilisation
 ### 1. Ajouter un contact :
